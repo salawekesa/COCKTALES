@@ -7,3 +7,6 @@ def home(request):
 
 def room(request):
     return render(request, 'room.html')
+
+def about(request):
+    return render(request, 'about.html')
