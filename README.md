@@ -1,2 +1,2 @@
 # COCKTALES
-Search, discover, and connect with fellow cocktail lovers through our social cocktail app
+Search, discover, and connect with fellow cocktail lovers through my social cocktail app
