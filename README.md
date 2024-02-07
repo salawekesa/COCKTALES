@@ -22,6 +22,7 @@
 <img src="static/images/Dashboard.PNG" ALT="Dashboard">
 
 <H2>Deploying on EC2</H2>
+
 ### Setup
 Update the System
 ```bash
